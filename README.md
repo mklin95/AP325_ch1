@@ -1,6 +1,6 @@
 # AP325 CH1 - Recursive
 
-2022/2/1 ~ 2022/2/28
+[APCS325](https://drive.google.com/drive/folders/10hZCMHH0YgsfguVZCHU7EYiG8qJE5f-m?fbclid=IwAR2MekSJDV7AufzMGRjN05pbPwb93ygqmE-wAtOUDCdseTNwhPVTgPdW9-o) 學習心得：2022/2/1 ~ 2022/2/28
 
 在開始這個章節前，已經會一些簡單的遞迴，像是費氏序列。
 
