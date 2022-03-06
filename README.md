@@ -16,7 +16,7 @@
 
 像是費式序列，用加法的時間複雜度是 O(n)
 
-CODE：
+array CODE：
 ~~~cpp
 for(int i = 2; i < k; i++) s[i] += s[i-1] + s[i-2];
 
@@ -24,7 +24,7 @@ for(int i = 2; i < k; i++) s[i] += s[i-1] + s[i-2];
 
 但改用遞迴的話，因為會重複呼叫已經算過的數字，浪費時間，時間複雜度暴增為 O(2^n)
 
-CODE：
+遞迴 CODE：
 ~~~cpp
 int f(int n)
 {
