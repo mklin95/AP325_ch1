@@ -1,4 +1,4 @@
-# AP325 ch1 - Recursive
+# AP325 CH1 - Recursive
 
 2022/2/1 ~ 2022/2/28
 
